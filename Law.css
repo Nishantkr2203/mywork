@@ -1,0 +1,243 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.cours{
+	background-color: #1a2040;
+}
+p.call_text {
+    margin-left: 2rem
+}
+.nav_bar {
+    width: 100%;
+    height: 3rem;
+    background-color: #5b9d99;
+    display: inline-flex;
+    gap: 3%;
+}
+.nav-iteam_contact a {
+    color: white;
+    text-decoration: none;
+}
+.nav-iteam_contact {
+    color: white;
+}
+.nav_email h4 {
+    color: white;
+    margin: 8px;
+}
+.nav_button button {
+    padding: 6px;
+    width: 8rem;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin: 5px;
+}
+.nav_button button:hover {
+    background-color: #00BCD4;
+    transition: all .5s;
+}
+.nav_email {
+    border-left: 2px solid white;
+}
+.btn-1 {
+   
+    background-color: #0b6e0b;
+}
+.btn-2 {
+    background-color: #763118;
+}
+.name_institut h2 {
+    color: #814444;
+    letter-spacing: 10px;
+    margin: 5px;
+}
+.main_navbar {
+    background-color: #FFC107;
+    width: 100%;
+    height: 4.5rem;
+}
+
+.nav_list ul {
+    display: inline-flex;
+    gap: 3rem;
+    list-style: none;
+    margin: 16px 36% 0px 0px;
+    float: right;
+}
+.nav_list a {
+    text-decoration: none;
+    color: #234f7e;
+    font-size: 25px;
+    border-right: 1px solid white;
+    padding-right: 20px;
+}
+.nav_list a:hover {
+    color: white;
+    text-decoration: none;
+    transition: all .3s;
+}
+.main_navbar .logo img {
+    float: left;
+    width: 20rem;
+    height: 4rem;
+}
+.banner_img img {
+    width: 100%;
+    height: 35rem;
+    margin-top: 6%;
+}
+.menu_items{
+	text-align: center;
+    background: #fff;
+    padding: 24px 0;
+    position: absolute;
+    margin-top: -2%;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+}
+.modal-footer {
+    background-color: #3e3c3c;
+    width: 100%;
+    height: 22rem;
+}
+
+.details {
+    width: 100%;
+    color: white;
+	text-align: center;
+}
+.sec4{
+	border-right: 1px solid #fff;
+}
+.our_services h1 {
+    text-align: center;
+    margin: 4rem;
+}
+.containt h1 {
+    text-align: center;
+    margin: 4rem;
+}
+.containt {
+    margin-top: 1%;
+}
+.text_1 {
+    text-align: center;
+    padding: 20px;
+}
+section.content {
+    margin: 80px;
+}
+
+.our_services {
+    margin: 15% 2% 5% 2%;
+}
+.line1 {
+    box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.08);
+    height: 15rem;
+    text-align: center;
+}
+.line1 img {
+    box-shadow: 9px 11px 11px gray;
+}
+.vid5 iframe {
+    width: 34rem;
+    height: 15rem;
+	margin-bottom: 2rem;
+}
+.demo_video h2 {
+    text-align: center;
+    margin: 4rem;
+}
+
+.head {
+    position: fixed;
+    width: 110%;
+    top: 0%;
+    z-index: 999;
+}
+
+.con1 {
+    background: #fff;
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: 5px 3px #b9b9b936;
+    margin-top: 5rem;
+}
+.sub_heading h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+.sub_heading h2 {
+  font-size: 29px;
+  font-weight: 600;
+  line-height: 34px;
+  margin-bottom: 6px;
+}
+.sub_heading a {
+  color: rgb(233 120 98);
+	text-decoration: none;
+}
+.price_tag-all p strong {
+  margin-left: 22px;
+  color: #fff;
+  font-weight: 600;
+  background: #3c8897;
+  padding: 9px 11px;
+  font-size: 15px;
+  border-radius: 14px;
+	border-left: 1px solid #00000040;
+  padding-left: 12px;
+}
+.price_tag-all p {
+  font-size: 24px;
+  margin: 10px 0;
+  font-weight: bold;
+}
+.price_tag-all p span {
+  text-decoration: line-through;
+  margin-right: 15px;
+  color: #f90000;
+	border-right: 1px solid #00000040;
+  padding-right: 12px;
+}
+.price_tag-all p spam {
+	border-right: 1px solid #00000040;
+  padding-right: 12px;
+}
+.sub_img-2 img {
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 3px 3px #c0c2c5;
+}
+.con1 {
+    margin-top: 10rem;
+    background: #fff;
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: 5px 3px #b9b9b936;
+}
+.line1:hover {
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.08);
+    transition: 0.5s all;
+    border-radius: 6px;
+    text-align: center;
+	background:linear-gradient(177deg, #237070, #582222);
+}
+.text_1 h1 {
+    margin: 0px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 8rem 5rem;
+    grid-template-rows: 5rem 5rem;
+    grid-gap: 20px;
+}

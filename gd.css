@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+.top_nav {
+    background-color: #FFC107;
+}
+.col-4.phone_gmail {
+    color: white;
+    display: flex;
+}
+h6.call_text {
+    margin-right: 11px;
+    border-right: 2px solid;
+    padding-right: 10px;
+}
+.phone_gmail h5 {
+    margin-top: 9px;
+}
+.call_text a {
+    color: black;
+}
+.logo_sec img {
+    width: 10%;
+}
+.main_nav {
+    background-color: #5b9d99;
+}
+.menu_itam ul {
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-size: 28px;
+}
+.our_services h1 {
+    text-align: center;
+    margin: 4rem;
+}
+.logo img {
+    height: 4.3rem;
+}
+
+.our_services {
+    margin: 15% 2% 5% 2%;
+}
+.line1 {
+    box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.08);
+    height: 10rem;
+    text-align: center;
+}
+.line1 img {
+    box-shadow: 9px 11px 11px gray;
+	height: 10rem;
+}
+.line1:hover {
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.08);
+    transition: 0.5s all;
+    border-radius: 6px;
+    text-align: center;
+	background:linear-gradient(177deg, #237070, #582222);
+}
+.menu_itam a {
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    border-left: 2px solid white;
+    padding: 0px 24px;
+}
+.menu_itam a:hover {
+    color: #d32f44;
+    transition: all 0.3s;
+    text-decoration: none;
+}
+.button1 button {
+    width: 40%;
+    height: 2rem;
+    color: white;
+    border-radius: 9px;
+    border: none;
+    margin-top: 7px;
+}
+button.btn-1 {
+    background-color: #157015;
+}
+button.btn-2 {
+    background-color: #763118;
+}
+.text_1 h5 {
+    color: black;
+}
+.logo_sec img {
+    width: 16%;
+    margin: 16px 1px 0px 17px;
+}
+.banner_img img {
+    position: relative;
+}
+.header-sec{
+	position: fixed;
+	z-index: 99999;
+}
+.demo_video iframe{
+	
+	width: 100%
+}
+.footer_sec {
+    background-color: #3e393a;
+}
+.img_footer h3, p {
+    color: white;
+    text-align: center;
+}
+.footer_menu ul {
+    text-align: center;
+    list-style: none;
+    margin-top: 35px;
+    font-size: 1.5rem;
+}
+.footer_menu li,a {
+    color: white;
+	text-decoration: none;
+}
+.address{
+	margin-top: 30px;
+}
+.address img{
+	width: 2rem;
+	margin-left: 6rem;
+}
+.address h2, h5 {
+    text-align: center;
+    color: white;
+}
+.address span{
+	color: red;
+}
+.head_text {
+    text-align: center;
+    letter-spacing: 10px;
+    background-color: #d3e5eb;
+    height: 5rem;
+    margin: 9rem 0rem 4rem 0rem;
+    padding: 15px;
+   /* box-shadow:0px 2px 16px #cbd9d9;*/
+}
+.details {
+    text-align: center;
+    box-shadow: -4px 8px 10px gray;
+	margin-bottom: 4rem;
+}
+.baneer_bar {
+    box-shadow: 4px 5px 20px gray;
+    background: #f5f2f2;
+    position: absolute;
+    width: 78%;
+    text-align: center;
+    top: 51rem;
+}
